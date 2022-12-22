@@ -4,6 +4,7 @@
 @import "screens/welcome.css";
 @import "variables.css";
 @import "screens/login.css";
+/*주석 감싸기*/
 body{
     font-family : 'Open Sans', sans-serif;
 }
