@@ -5,7 +5,12 @@
 @import "variables.css";
 @import "screens/login.css";
 @import "components/nav.css";
+@import "components/screen-header.css";
+@import "screens/friends.css";
+@import "components/user-components.css";
 /*주석 감싸기*/
 body{
     font-family : 'Open Sans', sans-serif;
+    padding-top: 2px;
+    color: #2e363e;
 }
