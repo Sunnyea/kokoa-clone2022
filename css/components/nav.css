@@ -1,0 +1,10 @@
+.nav{
+    background-color: #fafafa;
+    padding: 20px 30px;
+}
+
+.nav__ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
